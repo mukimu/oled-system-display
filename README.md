@@ -19,4 +19,5 @@ SW:
 DT: D18
 CLK: D19
 ```
-!(Picture of project)[/blob/main/photo_2023-11-30_17-43-26.jpg]
+
+![photo_2023-11-30_17-43-26](https://github.com/mukimu/oled-system-display/assets/39186962/1d561311-9588-4c1e-9dda-2521a152d068)
