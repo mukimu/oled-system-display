@@ -19,3 +19,4 @@ SW:
 DT: D18
 CLK: D19
 ```
+!(Picture of project)[/assets/images/photo_2023-11-30_17-43-26.jpg]
